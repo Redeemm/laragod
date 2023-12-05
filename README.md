@@ -1,6 +1,4 @@
 
-### Features :
-- ##### PWA (progressive web app)
 # ====== FRONT-END =======
 
 - Responsive Layout
